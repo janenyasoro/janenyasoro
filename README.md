@@ -11,6 +11,7 @@ I'm a Full-Stack Software Engineer currently completing my final milestones at M
 * 🏗️ **Production Standards:** Clean code architecture, proper state management, git workflows
 
 * 💬 **Ask me about:** Python, Django, React, and building seamless APIs
+* ⚡ **Fun fact:** I run a legendary pilau vending business on Fridays!
 
 ## 🚀 Featured Projects
 
@@ -25,12 +26,12 @@ I'm a Full-Stack Software Engineer currently completing my final milestones at M
 * **Backend:** Python, Django, Flask, PostgreSQL, MySQL
 * **Tools:** Git, Docker, Linux, API Development
 
+## 📈 GitHub Activity
+
+![Jane's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janenyasoro&theme=radical)
+
 ## 🌍 Let's Connect
 
 * **Email:** [janenyasoro@gmail.com](mailto:janenyasoro@gmail.com)
 * **LinkedIn:** [linkedin.com/in/janenyasoro](https://linkedin.com/in/janenyasoro)
 * **Twitter:** [@jayne_christine](https://twitter.com/jayne_christine)
-
-![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=janenyasoro&show_icons=true&theme=radical)
-
-```
