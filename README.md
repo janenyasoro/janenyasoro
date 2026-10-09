@@ -108,26 +108,6 @@ A 3D maze rendering engine developed in C using SDL2 raycasting techniques to ex
 
 ---
 
-## 🎓 Education & Certifications
-
-* **Software Engineering Program** — Moringa School (Graduation Nov 2026)
-
-
-* **Back-End Software Engineering Certificate** — ALX Africa
-
-
-* **Bachelor of Business Information Technology (BBIT)** — JKUAT
-
-
-* **Google IT Support Professional Certificate** — Coursera
-
-
-* **Cisco Certified Network Associate (CCNA)** — Institute of Advanced Technology
-
-
-
----
-
 ## ⚡ Beyond Code
 
 * 💬 **Ask me about:** Python, Django/Flask APIs, React architecture, CI/CD automation, QA & testing strategies, and cloud deployments.
